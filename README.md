@@ -1,3 +1,4 @@
+![logo](https://cdn.ttgtmedia.com/rms/onlineimages/code_g1195673150.jpg)
 <h1 align="center">Hi 👋, I'm Ankita Nath</h1>
 <h3 align="center">I Am Coding Enthusiast And Passionate Data Analyst</h3>
 
